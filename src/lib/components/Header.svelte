@@ -1,4 +1,4 @@
-<div class="header container">
+<div class="header">
 	<div class="header__logo">ПОРТАЛ ПОИСКА ПРОПАВШИХ ЛЮДЕЙ</div>
 	<div class="header__list">
 		<a class="header__item" href="/">Главная</a>
